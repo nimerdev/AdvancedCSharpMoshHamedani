@@ -1,0 +1,24 @@
+﻿<Window x:Class="AsyncronousProgrammingAsyncAwait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncronousProgrammingAsyncAwait"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Content="Sync" HorizontalAlignment="Left" Height="40" Margin="300,157,0,0" VerticalAlignment="Top" Width="117" Click="ButtonSync_Click" >
+            <Button.Effect>
+                <DropShadowEffect ShadowDepth="1" Direction="0"/>
+            </Button.Effect>
+        </Button>
+        <Button Content="ASync" HorizontalAlignment="Left" Height="40" Margin="300,10,0,0" VerticalAlignment="Top" Width="117" Click="ButtonAsync_Click" >
+            <Button.Effect>
+                <DropShadowEffect ShadowDepth="1" Direction="0"/>
+            </Button.Effect>
+        </Button>
+    </StackPanel>
+
+
+
+</Window>

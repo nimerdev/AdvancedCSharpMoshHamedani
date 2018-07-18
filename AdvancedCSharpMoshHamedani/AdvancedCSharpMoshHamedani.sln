@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicBinding", "DynamicBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{CCC64B30-DC72-462B-9171-72768BE4AABD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncronousProgrammingAsyncAwait", "AsyncronousProgrammingAsyncAwait\AsyncronousProgrammingAsyncAwait.csproj", "{99EC310A-FB8B-46D1-918E-392FA1A120E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{CCC64B30-DC72-462B-9171-72768BE4AABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCC64B30-DC72-462B-9171-72768BE4AABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCC64B30-DC72-462B-9171-72768BE4AABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EC310A-FB8B-46D1-918E-392FA1A120E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EC310A-FB8B-46D1-918E-392FA1A120E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EC310A-FB8B-46D1-918E-392FA1A120E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EC310A-FB8B-46D1-918E-392FA1A120E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
