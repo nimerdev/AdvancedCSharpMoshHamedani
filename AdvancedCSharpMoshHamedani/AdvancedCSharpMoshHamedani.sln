@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "Lambda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharp.Entities", "AdvancedCSharp.Library\AdvancedCSharp.Entities.csproj", "{F70E41ED-1C93-4E08-BB9D-7CD7B70473CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{AEE2C71E-4E17-4C65-8E5A-18CB9513AA78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F70E41ED-1C93-4E08-BB9D-7CD7B70473CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F70E41ED-1C93-4E08-BB9D-7CD7B70473CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F70E41ED-1C93-4E08-BB9D-7CD7B70473CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE2C71E-4E17-4C65-8E5A-18CB9513AA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE2C71E-4E17-4C65-8E5A-18CB9513AA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE2C71E-4E17-4C65-8E5A-18CB9513AA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE2C71E-4E17-4C65-8E5A-18CB9513AA78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
